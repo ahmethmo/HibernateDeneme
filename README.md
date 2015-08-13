@@ -1,0 +1,2 @@
+# HibernateDeneme
+Hibernate bağlantılar.
